@@ -7,5 +7,16 @@ v 1.0, 2023-06-17
 :pdf-page-size: A3
 :pdf-style:
 
-== Interesting links
+== Site concerning Systems Design
 
+https://github.com/donnemartin/system-design-primer[Donne Martin-System Design Primer]
+
+== Blogs of Companies Engineering
+
+https://github.com/donnemartin/system-design-primer#company-engineering-blogs[Primary Source]
+
+https://research.google/[Google Research]
+
+https://www.facebook.com/Engineering[Meta Engineering]
+
+https://learn.microsoft.com/en-us/azure/architecture[Microsoft Azure Architecture]

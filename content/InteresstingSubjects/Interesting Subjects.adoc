@@ -1,0 +1,17 @@
+= Interesting Subjects
+christian.popescu@outlook.com>
+v 1.0, 2023-06-17
+:toc:
+:toclevels: 5
+:sectnums:
+:pdf-page-size: A3
+:pdf-style:
+
+
+== Topics
+
+=== Map Reduce
+
+https://en.wikipedia.org/wiki/MapReduce[Wikipedia Article]
+
+xref:doc/mapreduce-osdi04 - from Google.pdf [Document from Google]
