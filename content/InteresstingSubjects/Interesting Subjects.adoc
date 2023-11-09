@@ -15,3 +15,7 @@ v 1.0, 2023-06-17
 https://en.wikipedia.org/wiki/MapReduce[Wikipedia Article]
 
 xref:doc/mapreduce-osdi04 - from Google.pdf [Document from Google]
+
+=== Google File System
+
+xref:doc/gfs-sosp2003 - google file system.pdf[Google File System]
