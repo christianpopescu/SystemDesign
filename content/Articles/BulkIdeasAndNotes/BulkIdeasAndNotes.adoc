@@ -1,0 +1,30 @@
+= Bulk ideeas and notes
+christian.popescu@outlook.com>
+v 1.0, 2023-11-13
+:toc:
+:toclevels: 5
+:sectnums:
+:pdf-page-size: A3
+:pdf-style:
+
+== Purpose
+
+To keep the ideas when I read different articles or information, to develop (or throw) later.
+
+== Topics
+
+* Redis
+
+* memcached
+
+* Cassandra
+
+* Big Table (from Google)
+
+* MongoDB
+
+link:../../Documents/MongoDB_Architecture_Guide.pdf[]
+
+* DynamoDB (from Amazon)
+
+* Bloom filter

@@ -19,3 +19,9 @@ xref:doc/mapreduce-osdi04 - from Google.pdf [Document from Google]
 === Google File System
 
 xref:doc/gfs-sosp2003 - google file system.pdf[Google File System]
+
+=== Google Bigtable
+
+https://en.wikipedia.org/wiki/Bigtablehttps://en.wikipedia.org/wiki/Bigtable[Bigtable Wikipedia Article]
+
+xref:doc/Bigtable - A distributed Storage System For Structured Data.pdf[Google - Bigtable]

@@ -3,6 +3,6 @@
 Purpose of this repository is to keep links and notes about system design
 
 
-xref:content/Links/Links.adoc[Interesting Links]
+xref:content/Articles/Links/Links.adoc[Interesting Links]
 
-xref:content/InteresstingSubjects/Interesting Subjects.adoc[Interesting Subjects]
+xref:content/Articles/InteresstingSubjects/InterestingSubjects.adoc[Interesting Subjects]

@@ -1,0 +1,22 @@
+= System Design
+christian.popescu@outlook.com>
+v 1.0, 2023-11-13
+:toc:
+:toclevels: 5
+:sectnums:
+:pdf-page-size: A3
+:pdf-style:
+
+== Introduction
+
+This is the main page concerning the documentation about System Design.
+
+link:Articles/Links/Links.adoc[Links]
+
+link:Articles/InteresstingSubjects/InterestingSubjects.adoc[Interessting Subjects]
+
+link:Articles/BulkIdeasAndNotes/BulkIdeasAndNotes.adoc[]
+
+
+
+

@@ -1,0 +1,21 @@
+= Web Sockets
+christian.popescu@outlook.com>
+v 1.0, 2023-12-03
+:toc:
+:toclevels: 5
+:sectnums:
+:pdf-page-size: A3
+:pdf-style:
+
+
+== Introduction
+
+WebSocket is the most common solution for sending asynchronous updates from server to client.
+
+
+== Userful Links
+
+
+https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,as%20RFC%206455%20in%202011.[Wikipedia WebSocket]
+
+https://caniuse.com/?search=websocket[Up to date information if navigators that supports WebSockets]
