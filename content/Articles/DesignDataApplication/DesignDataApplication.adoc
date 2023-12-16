@@ -1,0 +1,29 @@
+= Design Data Application
+christian.popescu@outlook.com>
+v 1.0, 2023-12-13
+:toc:
+:toclevels: 5
+:sectnums:
+:pdf-page-size: A3
+
+
+== Introduction
+
+This article is based on the book <<DDIA>> .
+
+
+== Encoding and Versioning
+
+
+=== Formats for Encoding Data
+
+==== Language-Specific Formats
+
+==== Text Formats
+
+
+
+[bibliography]
+== Bibliography
+
+* [[[DDIA]]] Martin Kleppmann . Design Data-Intensive Application. O'Reilly, 2017.
